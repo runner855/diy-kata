@@ -15,7 +15,7 @@ const booleanToWord = boolean => {
    
 
 };
-booleanToWord ("xyz");
+
 
 
 module.exports = booleanToWord;
