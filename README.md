@@ -1,4 +1,5 @@
 # DIY Kata
+Scott and Dario 
 
 This repository is aimed at helping you get to grips with the basics of testing in JavaScript.
 
